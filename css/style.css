@@ -20,10 +20,21 @@
 	text-align: center;
 }
 .ikona7{
-	width :70%;
-	margin-bottom: 30px;
+	width :90%;
+	margin-bottom: 20px;
 }
 .ikona8 {
-	width: 70%;
+	width: 90%;
 
+}
+body{
+	background-color:pink
+}
+img{
+	border:#fa0754; border-width:5px; border-style:solid;
+}
+.border-text{
+	border:#fa0754; border-width:3px; border-style:solid;
+	padding: 10px;
+	border-radius: 5%;
 }
